@@ -1,0 +1,153 @@
+* {
+    margin: 10px;
+    font-family: sans-serif;
+    border: border-box;
+}
+
+.navbar {
+    height: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #5b9bd5;
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+
+}
+
+.logo {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.navigation p {
+    display: inline;
+    margin-left: 30px;
+    font-size: larger;
+    font-weight: 700;
+}
+.navigation {
+    margin-left: 40px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    border: none;
+}
+.navigation a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.4rem;
+}
+.home img {
+    margin-left: 100px;
+    height: 400px;
+    width: 1005px;
+    
+}
+
+.text p {
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 120px;
+    font-size: large;
+}
+.foot {
+    height: 40px;
+    background-color: #5b9bd5;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 6px;
+    
+}
+.footicon  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+.about {
+    display: flex;
+    
+}
+.text2 p {
+    margin-left: 100px;
+    text-align: justify;
+}
+
+.propic img {
+    border-radius: 12px;
+    margin-right: 90px;
+    width: 250px;
+}
+.text3 p {
+    margin-left: 110px;
+    margin-right: 100px;
+}
+
+ul {
+    margin-left: 85px;
+}
+
+.youtube {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.youtube iframe {
+    border-radius: 40px;
+}
+
+.ppage {
+    display: flex;
+    width: 1000px;
+    justify-content: left;
+    margin-left: 110px;
+    margin-right: 100px;
+    margin-top: 30px;
+    
+}
+
+.portfolio {
+    display: flex;
+    height: 470px;
+    width: 350px;
+    flex-wrap: wrap;
+    margin-top: 0; 
+    justify-content: space-evenly;
+}
+
+
+
+
+.text4 {
+    height: 500px;
+    width: 800px;
+    margin-right:0;
+    margin-top: 20px;
+    font-size: x-large;
+    line-height: 1.5rem;
+
+}
+.text4 p {
+    height: 225px;
+    
+}
+
+.contactform {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+button {
+    border-radius: 10px;
+}
+.location {
+    height: 500px;
+    width: 1000px;
+    margin-top: 50px;
+}
+iframe {
+    height: 500;
+    width: 1000;
+    margin-left: 100px;
+}
